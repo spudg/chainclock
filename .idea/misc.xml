@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1875" />
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/drawable/ic_info.xml" value="0.1875" />
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1875" />
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/layout-v26/activity_main.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/layout/activity_height_clock_widget_config.xml" value="0.2" />
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/layout/heightclock_widget.xml" value="0.2" />
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/layout/info_dialog.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1875" />
+        <entry key="..\:/Users/itzsy/AndroidStudioProjects/HeightClock/app/src/main/res/xml/example_appwidget_info.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
